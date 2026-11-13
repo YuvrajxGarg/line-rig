@@ -1,0 +1,8 @@
+{
+  "name": "line-rig",
+  "private": true,
+  "type": "module",
+  "description": "Line Rig: 2D line-art characters with a full rig, cursor-follow head and in-browser motion capture.",
+  "scripts": { "dev": "python3 -m http.server 8000" },
+  "dependencies": { "@anthropic-ai/sdk": "^1.4.0" }
+}
